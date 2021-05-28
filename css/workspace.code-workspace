@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\이탈리안"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "artis동물원"
+	}
+}
