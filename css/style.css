@@ -194,7 +194,7 @@ i.fas .fa-align-right.m_none{display: none;}
 
 }
 @media(max-width : 480px){    
-#content_2_wrap{ width: 80%; margin-bottom: 120px;  height:380px; padding: 0 10% }
+#content_2_wrap{ width: 80%; margin-bottom: 100px;  height:400px; padding: 0 10% }
 .cont_2_box_1 { float:left; width: 50%; height: auto; padding:0;}
 .cont_2_box_2 { float:left; width: 50%; height: auto; padding:0;}
 .cont_2_box_1 img{ max-width: 100%; }
@@ -439,16 +439,16 @@ h2.n_title { position: absolute; top: 0; left: 0; font-size: 18px; color: #fff; 
 
 }
 @media(max-width : 480px){
-    .f_logo{ float: left; width: 47%; height: auto; padding: 8% 0 0 0; text-align: center; }
+    .f_logo{ float: left; width: 45%; height: auto; padding: 8% 0 0 0; text-align: center; }
     .f_logo >a>img{width: 100px;}
     
-    .center {float: left; font-size: 15px; width: 43%; padding: 3% 0 0 7%; margin-right: 170px; }
+    .center {float: left; font-size: 14px; width: 43%; padding: 3% 0 0 7%; margin-right: 170px; }
    ul.add{ float: left; font-size: 12px; width: 47%; height: auto; padding:3% 0 0 3%;  
     margin-top: -24%;
     margin-left: 50%; }
-    .sns {position: absolute; top: 0; right:10%; }
-    .sns a{ float: left;  padding: 25% 10px 0 0;}
-    .sns a img{ max-width: 100%; width: 25px;}
+    .sns {position: absolute; top: 0; right:15%; }
+    .sns a{ float: left;  padding: 15% 10px 0 0;}
+    .sns a img{ max-width: 100%; width: 20px;}
 
 
 }
