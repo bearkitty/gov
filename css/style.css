@@ -132,7 +132,7 @@ i.fas .fa-align-right.m_none{display: none;}
 
 .cont_box_2_m{ width: 42%; float: left;  height: auto; padding: 0 0 25px 0; 
                display: none;}
-.cont_box_2_m img{ max-width: 100%;}
+.cont_box_2_m img{ max-width: 100%; display:none;}
 
 
 .cont_box_3{ width: 42%; float: left; height: auto; }
